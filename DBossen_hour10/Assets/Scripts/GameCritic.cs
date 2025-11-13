@@ -5,24 +5,14 @@ using UnityEngine;
 public class GameCritic : MonoBehaviour
 {
     /*
-    I do think the game is too easy and it's because of how speratic the balls
-    are. Some of the balls go in instantly before you even have any chance of
-    noticing while others take forever to go in. 
+    I do think the game is too easy and it's because of how speratic the balls can be. Sometimes they go in instantly while other times it takes forever for them to get in.
 
-    I think something that would make it harder is more obstacles. With more 
-    obstacles there are more things for the balls to get stuck on and so more time
-    before they end up in the goals.
+    I think something that would make it harder is a goalee. Imagine if each goal had a moving bumper that could block the balls from going in. It would make it far more difficult especially with how the balls act.
 
-    I think something that would give it a wow factor is fun sound effects. The game
-    is simialir to pinball, so having some similair sound effects would make it pop
-    more. Having different ones for hitting walls, balls, or obstacles would add a 
-    lot.
+    I think something that would give it a wow factor is fun sound effects. The game is essentially pinball so having fun sound effects for when things hit each other would make the game far more satisfying and intersting.
+   
 
-    The part of the game that is fun is seeing the balls bounce around and watching
-    them deal with obstacles. A ball may be about to go in and then get knocked out
-    of the way. The part that is tedious is when the balls get stuck in a loop and
-    take a while to get out. Early into making it that would happen a lot with the
-    ball never coming close to going in because its in a loop.
+    The part of the game that is fun is seeing the balls bounce around. Bouncing the ball off the wall and into the goal is very satisfying and fun. The part that is tedious is the speed of the player. The balls are very fast and with how slow we are it can often feel like the player cant do anything or has no purpose. 
 
      The 4 suggestions I did are:
     1.Try adding variations of the chaos balls 
